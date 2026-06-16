@@ -1,0 +1,85 @@
+Delivered-To: victim@example.com
+Received: by 2002:a05:612c:6c93:b0:59a:7d06:ccc0 with SMTP id 19csp541381vqk; Thu, 21 May 2026 10:18:13 -0700 (PDT)
+X-Received: by 2002:ac2:46e4:0:b0:5a8:7c80:3f3e with SMTP id 2adb3069b0e04-5aa2ba738bbmr1097949e87.14.1779383893683; Thu, 21 May 2026 10:18:13 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1779383893; cv=none; d=google.com; s=arc-20240605; b=GztDH5T275bv65OJCnVG5Vwk9FRSDiT7NVuUfKq9+C8fhhhx9mOYkS4m4LcODwYioD SaxuiEHr44FEMogiF5su5iyz+A3o3ojx1oSBJkx/N3kOra0T3QNPEg+dK9hSpeKo5m+d DDjRry0HSaHMfxiTUTC6CXDdt5EDKZPnZbqvZgGZgoSMhQzxwNOCpLklV6Z9bGDu+VSX 6o3T7Kc+ooYzBW6x7yenmw2J4AAZ2c6y9Ejv7WnIyVtpI+kSLo2RzlrUIfPjoEMg9QOO Ai9alxjzkvt4SnVa6A8tlFQ35r7LV/xU2grDcPTDG/n5+cbvNDO92aWC1dkqJDNWkVHz yl3g==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605; h=mime-version:to:message-id:subject:date:from; bh=8vwJeSF/7ccm1ofl4afmbM8d03MidjIQrmcoWotdZIg=; fh=oyG+pxCHdCXMjZo8IXkxxUf5H8KOwDkjvlANarr1Uzo=; b=FB+Rp3zDCs46eFp5UZASguEk3qsREgR98sVJ0xCjcQ/rDTjU708Hl08nZZuNM5+0CG HQmYgyyYA3eO9H5iPz4HA41ztbc0jyOId97ecWsuWu/mRG6No+n5VNUmQqQbnIMLwOTi eKgIFbw0Z1BPwpiVBd5n7jnaoy1TQLkgMaNAiaXpoANRoPltUrLWBWO27dm5+J6vSMMb zDuz2w85Ic6N0cElsfoN8lUTL5aR77zH49bk2NpTA2UaPJvxJJ6ng8b2dzRevqI6OAlW 9FbWPtlPa4glVFJ4+UaPc6QwRFTp4AkQELxfKJ9MZ0Xg/uMuTT5kyr/ktt2v5W1Wd+fy begA==; dara=google.com
+ARC-Authentication-Results: i=1; mx.google.com; spf=pass (google.com: domain of alix952577@heckmann-angeln.de designates 65.108.225.10 as permitted sender) smtp.mailfrom=Alix952577@heckmann-angeln.de
+Return-Path: <Alix952577@heckmann-angeln.de>
+Received: from mail.alfi.cloud (mail.alfi.cloud. [65.108.225.10]) by mx.google.com with ESMTPS id 2adb3069b0e04-5aa2f26b0c9si590268e87.170.2026.05.21.10.18.13 for <victim@example.com> (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256); Thu, 21 May 2026 10:18:13 -0700 (PDT)
+Received-SPF: pass (google.com: domain of alix952577@heckmann-angeln.de designates 65.108.225.10 as permitted sender) client-ip=65.108.225.10;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of alix952577@heckmann-angeln.de designates 65.108.225.10 as permitted sender) smtp.mailfrom=Alix952577@heckmann-angeln.de
+Received: from desktop-7lm99j8 [216.73.162.151] (Authenticated sender: alix952577[Alix952577@heckmann-angeln.de]) by mail.alfi.cloud (ZoneMTA) with ESMTPA id 19e3bfcd13500050fe.001 for <victim@example.com>; Mon, 18 May 2026 16:48:05 +0000
+X-Zone-Loop: 0e645884ea8573e9562bb2b7b0187a8857266d168d8b
+X-Originating-IP: [216.73.162.151]
+From: Customer Support <Alix952577@heckmann-angeln.de>
+Date: Mon, 18 May 2026 09:48:04 -0700
+Subject: Review Recent Activity
+Message-Id: <Message-Id: <REDACTED>>
+To: victim@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="=-OyWgT2z8KXF94NmGHpfbgQ=="
+
+--=-OyWgT2z8KXF94NmGHpfbgQ==
+Content-Type: text/plain; charset=utf-8
+
+
+--=-OyWgT2z8KXF94NmGHpfbgQ==
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html> <html> <head> <meta charset=3D"UTF-8"> <title>PayPal</title=
+> </head> <body style=3D"margin:0; padding:0; background:#f4f4f4;">  <table=
+ width=3D"100%" bgcolor=3D"#f4f4f4" cellpadding=3D"20" cellspacing=3D"0"> <=
+tr> <td align=3D"center">  <table width=3D"600" bgcolor=3D"#ffffff" cellpad=
+ding=3D"0" cellspacing=3D"0" style=3D"border:1px solid #cccccc;">          =
+<!-- Header -->     <tr>         <td bgcolor=3D"#003087" align=3D"center" s=
+tyle=3D"padding:25px 0;">             <h1 style=3D"color:white; margin:0; f=
+ont-size:29px; font-family:Arial,sans-serif;">PayPal</h1>             <p st=
+yle=3D"color:#a8c6ff; margin:8px 0 0 0; font-size:16px; font-family:Arial,s=
+ans-serif;">Secure Transaction Notification</p>         </td>     </tr>    =
+      <!-- Content -->     <tr>         <td style=3D"padding:35px 25px; fon=
+t-family:Arial,sans-serif; font-size:15.5px; line-height:1.65; color:#222;"=
+>                          <p><strong>Dear Valued Customer,</strong></p>   =
+                                 <p>We noticed a recent activity on your ac=
+count. A payment of <strong>$418.42 USD</strong> for Bitcoin Purchase (0.00=
+63 BTC) has been processed.</p>             <table width=3D"100%" cellpaddi=
+ng=3D"0" cellspacing=3D"0">                 <tr>                     <td al=
+ign=3D"center" style=3D"padding:15px 0;">                     <a href=3D"te=
+l:+18139345085" style=3D"display:inline-block; background:#003087; color:wh=
+ite; padding:16px 40px; font-size:17px; font-weight:bold; text-decoration:n=
+one; border-radius:6px;">                               Support Hotline: +1=
+ (813) 934-5085                             </a>                     </td> =
+                </tr>             </table>                          <p styl=
+e=3D"text-align:center; font-weight:600; margin:30px 0 15px 0; font-size:16=
+px;">Transaction Details</p>                          <table width=3D"100%"=
+ cellpadding=3D"12" cellspacing=3D"0" style=3D"border:1px solid #dddddd; bo=
+rder-collapse:collapse;">                 <tr bgcolor=3D"#f8f9fa">         =
+            <td style=3D"border:1px solid #dddddd; font-weight:600;">Order =
+Number</td>                     <td style=3D"border:1px solid #dddddd;">INV=
+056677</td>                 </tr>                 <tr>                     =
+<td style=3D"border:1px solid #dddddd; font-weight:600;">Date</td>         =
+            <td style=3D"border:1px solid #dddddd;">May 18, 2026</td>      =
+           </tr>                 <tr bgcolor=3D"#f8f9fa">                  =
+   <td style=3D"border:1px solid #dddddd; font-weight:600;">Description</td=
+>                     <td style=3D"border:1px solid #dddddd;">Bitcoin Purch=
+ase (0.0063 BTC)</td>                 </tr>                 <tr>           =
+          <td style=3D"border:1px solid #dddddd; font-weight:600;">Amount</=
+td>                     <td style=3D"border:1px solid #dddddd;"><strong>$41=
+8.42 USD</strong></td>                 </tr>             </table>          =
+                <table width=3D"100%" bgcolor=3D"#fff8e1" cellpadding=3D"20=
+" cellspacing=3D"0" style=3D"margin:25px 0; border-left:6px solid #ffcc00;"=
+>                 <tr>                     <td style=3D"font-size:15px; lin=
+e-height:1.6;">                         <strong>Security Alert:</strong><br=
+><br>                         If you did not authorize this transaction, pl=
+ease contact our support immediately at <strong>+1 (813) 934-5085</strong>.=
+<br><br>                         Failure to verify may result in temporary =
+account review.                     </td>                 </tr>            =
+ </table>                          <p>Thank you for using our services.<br>=
+<br>             Sincerely,<br>             <strong>PayPal Security Team</s=
+trong></p>                      </td>     </tr>          <!-- Footer -->   =
+  <tr>         <td bgcolor=3D"#f8f8f8" align=3D"center" style=3D"padding:20=
+px; font-family:Arial,sans-serif; font-size:12px; color:#555;">            =
+ =C2=A9 2026 PayPal Holdings, Inc. All rights reserved.<br>             Thi=
+s is an automated security notification.         </td>     </tr>      </tab=
+le>  </td> </tr> </table>  </body> </html>
+--=-OyWgT2z8KXF94NmGHpfbgQ==--
